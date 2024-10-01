@@ -1,6 +1,6 @@
 ## Ji Yeon Park 
-Hi 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=137pjy)](https://solved.ac/백준아이디)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=137pjy)](https://solved.ac/백준아이디)    
+  
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@137pjy/)
 <!--
 **137pjy/137pjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
