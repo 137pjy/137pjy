@@ -24,11 +24,13 @@ Hi👋 I have a deep interest in deployment, ☁cloud computing, and backend env
 </div>
 
 ---
-  
+<div align="center">
+  <a href="https://solved.ac/137pjy">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=137pjy" alt="Solved.ac Profile">
+  </a>
+</div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=137pjy)](https://solved.ac/백준아이디)    
-![JiYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=137pjy&show_icons=true&theme=radical)
-  
+
 
 <!--
 **137pjy/137pjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
