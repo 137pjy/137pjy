@@ -1,5 +1,5 @@
 ## Ji Yeon Park 
-Hi, I have a deep interest in deployment, cloud computing, and backend environments. 
+Hi👋 I have a deep interest in deployment, cloud computing, and backend environments. 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=137pjy)](https://solved.ac/백준아이디)    
   
