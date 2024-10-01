@@ -1,5 +1,6 @@
 ## Ji Yeon Park 
-Hi👋 I have a deep interest in deployment, cloud computing, and backend environments.   
+Hi👋 I have a deep interest in deployment, cloud computing, and backend environments.  
+
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@137pjy/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiyeon-park1012/)](https://www.linkedin.com/in/jiyeon-park1012/)
 
 ## 📚Skills
