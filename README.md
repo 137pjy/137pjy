@@ -26,11 +26,21 @@ I have a deep interest in 🛠️deployment, ☁cloud computing, and backend env
 
 ---
 <div align="center">
-  <a href="https://solved.ac/137pjy">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=137pjy" alt="Solved.ac Profile">
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://solved.ac/137pjy">
+          <img src="http://mazassumnida.wtf/api/generate_badge?boj=137pjy" alt="Solved.ac Profile">
+        </a>
+      </td>
+      <td>
+        <a href="https://leetcode.com/137pjy/">
+          <img src="https://leetcard.jacoblin.cool/137pjy?theme=light&font=Noto%20Sans%20Multani" alt="LeetCode Stats">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 
 <!--
